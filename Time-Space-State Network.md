@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # 时空状态网的构建  
 ----
 主要针对铁路乘务计划问题中的“绝对时间”约束（用餐时间窗）和“相对时间”约束（相关乘务规则）
