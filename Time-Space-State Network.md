@@ -29,8 +29,8 @@ TSSN中，每个点有三个维度$(t,s,\omega)$
 点$v_i$的第 m 个状态为$\omega_{i(m)}$，每个状态用5个属性值来表示：$\omega_{i(m)} = (Td_{i(m)},To_{i(m)},Tc_{i(m)},Tp_{i(m)},Mb_{i(m)})$
 这样每个点就可以表示为$(t_i,s_i,\omega_{i(m)})$， 点$v_i$的所有状态为$\Omega_i = \{\omega_{i(1)},...\omega_{i{5}}\}$
 - 解释：
-1. $Td_{i(m)}$：accumulated working time of $v_{i(m)}$  累计工作时间，通过点$v_{i(m)}$的前继节点$v_{j(n)}$计算。点$v_{i(m)}$和点$v_{j(n)}$之间弧的弧长$tt_{j(n),i(m)} = t_i - t_j$。
-$Td_{i(m)} = $Td_{j(n)} + tt_{j(n),i(m)}$. 若点$v_{j(n)}$是基地，则$Td_{i(m)} = 0$,；若弧是跨天弧，$Td_{i(m)} = 0$
+1. $Td_{i(m)}$：accumulated working time of $v_{i(m)}$  累计工作时间，通过点$v_{i(m)}$的前继节点$v_{j(n)}$计算。点$v_{i(m)}$和点$v_{j(n)}$之间弧的弧长$tt_{j(n),i(m)} = t_i - t_j$  
+$Td_{i(m)} = Td_{j(n)} + tt_{j(n),i(m)}$. 若点$v_{j(n)}$是基地，则$Td_{i(m)} = 0$,；若弧是跨天弧，$Td_{i(m)} = 0$
 2.$To_{i(m)}$: accumulated consecutive drving time of $v_{i(m)}$ 累计连续驾驶时间
 Tc_{i(m)},Tp_{i(m)},Mb_{i(m)}$
 
