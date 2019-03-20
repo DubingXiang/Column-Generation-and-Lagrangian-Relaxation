@@ -1,5 +1,5 @@
 # 时空状态网的构建  
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ----
 主要针对铁路乘务计划问题中的“绝对时间”约束（用餐时间窗）和“相对时间”约束（相关乘务规则）
 两种网络构建方式：时空接续网（connection network）和时空轴线网（time-space network）  
