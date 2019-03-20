@@ -1,5 +1,5 @@
 # 时空状态网的构建  
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 ----
 主要针对铁路乘务计划问题中的“绝对时间”约束（用餐时间窗）和“相对时间”约束（相关乘务规则）
 两种网络构建方式：时空接续网（connection network）和时空轴线网（time-space network）  
@@ -17,7 +17,7 @@
 ## 问题描述与网络构建  
 - 基本的乘务术语就不说了
 - 乘务规则：  
-\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\)
+$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
 1. working time of a duty \\(Td) <= \\Td^max:累计工作时间，包括驾驶、换乘、间休。 
 2. transfer time \\Tt >= \Tt_min:换乘时间。 
 3. consecutive driving time \To <= \To^max:连续驾驶时间（包括换乘，不包括间休）
