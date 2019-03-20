@@ -31,7 +31,7 @@ TSSN中，每个点有三个维度$(t,s,\omega)$
 - 解释：
 1. $Td_{i(m)}$：accumulated working time of $v_{i(m)}$  连续驾驶时间，通过点$v_{i(m)}$的前继节点$v_{j(n)}$计算。点$v_{i(m)}$和点$v_{j(n)}$之间弧的弧长$tt_{j(n),i(m)} = t_i - t_j$。
 $Td_{i(m)} = $Td_{j(n) + tt_{j(n),i(m)}}$. 若点$v_{j(n)}$是基地，则$Td_{i(m)} = 0$,；若弧是跨天弧，$Td_{i(m)} = 0$
-To_{i(m)},Tc_{i(m)},Tp_{i(m)},Mb_{i(m)}
+$To_{i(m)},Tc_{i(m)},Tp_{i(m)},Mb_{i(m)}$
 
   
 
