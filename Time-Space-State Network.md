@@ -32,8 +32,17 @@ TSSN中，每个点有三个维度$(t,s,\omega)$
 1. $Td_{i(m)}$：accumulated working time of $v_{i(m)}$  累计工作时间，通过点$v_{i(m)}$的前继节点$v_{j(n)}$计算。点$v_{i(m)}$和点$v_{j(n)}$之间弧的弧长$tt_{j(n),i(m)} = t_i - t_j$  
 $Td_{i(m)} = Td_{j(n)} + tt_{j(n),i(m)}$. 若点$v_{j(n)}$是基地，则$Td_{i(m)} = 0$,；若弧是跨天弧，$Td_{i(m)} = 0$
 2.$To_{i(m)}$: accumulated consecutive drving time of $v_{i(m)}$ 累计连续驾驶时间
-Tc_{i(m)},Tp_{i(m)},Mb_{i(m)}$
+$Tc_{i(m)},Tp_{i(m)},Mb_{i(m)}$
 
+
+----
+##状态各属性清零条件、转移条件和转移公式
+ 属性            |  清零条件   | 转移条件| 转移公式
+----------------|----------- | ------- |-------       
+$Td_{i(m)}$     | 1. $v_{i(m)}$是基地
+                | 2.           |         |
+                |              |
+                |              |        |
   
 
 参考文献：A Lagrangian Relaxation Approach 
