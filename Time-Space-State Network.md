@@ -21,15 +21,15 @@
 - 基本的乘务术语就不说了
 - 乘务规则  
 
-name                        |expression     |explanation
-----------------------------|---------------|-------------
+name                      |expression     |explanation
+--------------------------|---------------|-------------
  working time of a duty   | $Td <= Td^{max}$:| 累计工作时间，包括驾驶、换乘、间休
  transfer time            | $Tt >= Tt_{min}$:| 换乘时间
  consecutive driving time | $To <= To^{max}$:| 连续驾驶时间（包括换乘，不包括间休）
  break time               | $Tr >= Tr_{min}$:| 间休时长
  overnight rest time      | $Ts >= Ts_{min}$:| 外驻时间
  the period of a pairing  | $Tp <= Dd$:      | 交路长度（出乘-退乘 的总时长
- meal break time:         | 午餐 $TW^l_{MB} = \[ML_{min}, ML_{max}\]$ and 晚餐 $TW^s_{MB} = \[MS_{min}, MS_{max}\]$ | 此外，用餐时间必须是工作开始后$Te^a_b$小时和工作结束前$Te^b_f$ 小时
+ meal break time:         | 午餐 $TW^l_{MB} = \[ML_{min}, ML_{max}\]$ and     晚餐 $TW^s_{MB} = \[MS_{min}, MS_{max}\]$ | 此外，用餐时间必须是工作开始后$Te^a_b$小时和工作结束前$Te^b_f$ 小时
 
 前6个：相对时间；第7个：绝对时间
 TSSN中，每个点有三个维度$(t,s,\omega)$
