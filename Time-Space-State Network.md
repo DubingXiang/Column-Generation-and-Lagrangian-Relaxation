@@ -29,7 +29,8 @@ name                        |expression        |explanation
 4. break time               | $Tr >= Tr_{min}$:| 间休时长
 5. overnight rest time      | $Ts >= Ts_{min}$:| 外驻时间
 6. the period of a pairing  | $Tp <= Dd$:      | 交路长度（出乘-退乘 的总时长
-7. meal break time:         | 午餐 $TW^l_{MB} = \[ML_{min}, ML_{max}\]$ and 晚餐 $TW^s_{MB} = \[MS_{min}, MS_{max}\]$ |  此外，用餐时间必须是工作开始后$Te^a_b$小时和工作结束前$Te^b_f$ 小时
+7. meal break time:         | 午餐 $TW^l_{MB} = \[ML_{min}, ML_{max}\]$ and 晚餐 $TW^s_{MB} = \[MS_{min}, MS_{max}\]$ |    
+此外，用餐时间必须是工作开始后$Te^a_b$小时和工作结束前$Te^b_f$ 小时
 
 前6个：相对时间；第7个：绝对时间
 TSSN中，每个点有三个维度$(t,s,\omega)$
