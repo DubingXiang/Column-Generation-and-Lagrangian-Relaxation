@@ -22,7 +22,7 @@
 - 乘务规则  
 
 name                        |expression     |explanation
-----------------------------|------------------|-------------
+----------------------------|---------------|-------------
  working time of a duty   | $Td <= Td^{max}$:| 累计工作时间，包括驾驶、换乘、间休
  transfer time            | $Tt >= Tt_{min}$:| 换乘时间
  consecutive driving time | $To <= To^{max}$:| 连续驾驶时间（包括换乘，不包括间休）
