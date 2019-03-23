@@ -21,7 +21,7 @@
 - 基本的乘务术语就不说了
 - 乘务规则  
 
-name                        |expression        |explanation
+name                        |expression     |explanation
 ----------------------------|------------------|-------------
  working time of a duty   | $Td <= Td^{max}$:| 累计工作时间，包括驾驶、换乘、间休
  transfer time            | $Tt >= Tt_{min}$:| 换乘时间
