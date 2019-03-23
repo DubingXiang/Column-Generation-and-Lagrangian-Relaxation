@@ -23,7 +23,7 @@
 
 name                        |expression        |explanation
 ----------------------------|------------------|-------------
-1. working time of a duty   | $Td <= Td^{max}$:| 累计工作时间，包括驾驶、换乘、间休
+ working time of a duty   | $Td <= Td^{max}$:| 累计工作时间，包括驾驶、换乘、间休
 2. transfer time            | $Tt >= Tt_{min}$:| 换乘时间
 3. consecutive driving time | $To <= To^{max}$:| 连续驾驶时间（包括换乘，不包括间休）
 4. break time               | $Tr >= Tr_{min}$:| 间休时长
