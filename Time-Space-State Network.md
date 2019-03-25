@@ -21,11 +21,17 @@
 $$if \, t^e_{meal} - t^s_{meal} \geq Te_{min}$$  
 $$then$$  
 
-$$Mb_{i(m)} =
-  \begin{cases}
-    1, & when Meal_{min} = S_Lunch and Meal_{max} = E_Lunch \\
-    2, & when Meal_{min} = S_Supper and Meal_{max} = E_Supper
-  \end{cases}$$
+$$Mb_{i(m)} =\begin{cases}
+1, & when Meal_{min} = S_Lunch and Meal_{max} = E_Lunch \\      
+2, & when Meal_{min} = S_Supper and Meal_{max} = E_Supper
+\end{cases}
+  $$  
+
+$$ 函数名=\begin{cases}
+公式1 & 条件1 \\
+公式2 & 条件2 \\
+公式3 & 条件3 
+\end{cases}$$
 
 ***
 在CSP中，通过**状态**来描述根据“混合时间”约束推算得到的点（task）的可行状态，TSSN的结构适用于拉格朗日松弛来求解
