@@ -21,7 +21,7 @@
 $$if\; t^e_{meal} - t^s_{meal} \geq Te_{min}$$  
 $$then$$\\
 \[
-  Mb_{i(m)} =
+  $Mb_{i(m)} =$
   \begin{cases}
     \1, &\text{when Meal_{min} = S_Lunch and Meal_{max} = E_Lunch}\\
     \2, &\text{when Meal_{min} = S_Supper and Meal_{max} = E_Supper}
