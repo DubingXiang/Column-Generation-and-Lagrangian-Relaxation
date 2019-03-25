@@ -19,11 +19,14 @@
 用餐（午/晚）开始时间 $ t^s_{meal} = max(t_{pre}, Meal_{min}) $  
 用餐（午/晚）结束时间 $ t^e_{meal} = min(t_{cur}, Meal_{max}) $  
 $$if\; t^e_{meal} - t^s_{meal} \geq Te_{min}$$  
-$$then\; Mb_{i(m)} =\left\{
-\begin{array}{rcl}
-1& & {when Meal_{min} = S_Lunch and Meal_{max} = E_Lunch}\\
-2& & {when Meal_{min} = S_Supper and Meal_{max} = E_Supper}
-\end{array} \right.$$
+$$then$$\\
+\[
+  Mb_{i(m)} =
+  \begin{cases}
+    \1, &\text{when Meal_{min} = S_Lunch and Meal_{max} = E_Lunch}\\
+    \2, &\text{when Meal_{min} = S_Supper and Meal_{max} = E_Supper}
+  \end{cases} 
+\]
 
 
 ***
