@@ -19,7 +19,8 @@
 用餐（午/晚）开始时间 $ t^s_{meal} = max(t_{pre}, Meal_{min}) $  
 用餐（午/晚）结束时间 $ t^e_{meal} = min(t_{cur}, Meal_{max}) $  
 $$if\; t^e_{meal} - t^s_{meal} \geq Te_{min}$$  
-$$then$$\\
+$$then$$  
+
 \[
   $Mb_{i(m)} =$
   \begin{cases}
