@@ -24,6 +24,8 @@ $$then\; Mb_{i(m)} =
 1& \text{when Meal_{min} = S_Lunch and Meal_{max} = E_Lunch}\\
 2& \text{when Meal_{min} = S_Supper and Meal_{max} = E_Supper}
 \end{cases}$$
+\end{CJK*}
+\end{document}
 
 ***
 在CSP中，通过**状态**来描述根据“混合时间”约束推算得到的点（task）的可行状态，TSSN的结构适用于拉格朗日松弛来求解
