@@ -18,14 +18,12 @@
 ---
 用餐（午/晚）开始时间 $ t^s_{meal} = max(t_{pre}, Meal_{min}) $  
 用餐（午/晚）结束时间 $ t^e_{meal} = min(t_{cur}, Meal_{max}) $  
-$$if t^e_{meal} - t^s_{meal} \geq Te_{min}$$  
-$$then Mb_{i(m)} =\left\{
-\begin{aligned}
-1$when Meal_{min} = S_Lunch and Meal_{max} = E_Lunch$
-2$when Meal_{min} = S_Supper and Meal_{max} = E_Supper$
-\end{aligned}
-\right.
-$$
+$$if\; t^e_{meal} - t^s_{meal} \geq Te_{min}$$  
+$$then\; Mb_{i(m)} =
+\begin{cases}
+1& \text{when Meal_{min} = S_Lunch and Meal_{max} = E_Lunch}\\
+2& \text{when Meal_{min} = S_Supper and Meal_{max} = E_Supper}
+\end{cases}$$
 
 ***
 在CSP中，通过**状态**来描述根据“混合时间”约束推算得到的点（task）的可行状态，TSSN的结构适用于拉格朗日松弛来求解
