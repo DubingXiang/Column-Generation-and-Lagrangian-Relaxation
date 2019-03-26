@@ -28,8 +28,8 @@ $\quad$ 也就是说在时空状态网中通过别的手段，转移了接续网
 $$if \, t^e_{meal} - t^s_{meal} \geq Te_{min}$$  
 $then$  
 $$Mb_{i(m)} =\begin{cases}
-1, & when\ Meal_{min} = S\\_Lunch\ and\ Meal_{max} = E\_Lunch \\      
-2, & when\ Meal_{min} = S\_Supper\ and\ Meal_{max} = E\_Supper
+1, & when\ Meal_{min} = S\Lunch\ and\ Meal_{max} = E\_Lunch\  \\      
+2, & when\ Meal_{min} = SSupper\ and\ Meal_{max} = E\_Supper
 \end{cases}
   $$  
 
