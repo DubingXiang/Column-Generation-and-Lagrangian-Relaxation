@@ -1,0 +1,13 @@
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\x86\Debug\Crew_Planning.exe.config
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\x86\Debug\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\x86\Debug\Crew_Planning.pdb
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\x86\Debug\Crew_Planning.Form1.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\x86\Debug\Crew_Planning.Form2.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\x86\Debug\Crew_Planning.ParaSet.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\x86\Debug\Crew_Planning.Properties.Resources.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\x86\Debug\Crew_Planning.ShowGap_Cur.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\x86\Debug\Crew_Planning.ShowGap_CurBest.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\x86\Debug\Crew_Planning.SolProcess.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\x86\Debug\Crew_Planning.csproj.GenerateResource.Cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\x86\Debug\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\x86\Debug\Crew_Planning.pdb

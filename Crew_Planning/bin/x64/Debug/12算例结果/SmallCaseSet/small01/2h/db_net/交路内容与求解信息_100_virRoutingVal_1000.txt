@@ -1,0 +1,11 @@
+乘务交路1为：A站7:20开始出乘到A站16:50退乘结束内容如下：Train_1→Train_3→午餐→Train_4→Train_2 交路长度为:1890
+OptLB为：4890.00
+OptUB为：4890.00
+迭代次数K为：31
+Gap为：0.0000
+建网时间为：0.02s
+state arc number: 21
+state node number: 19
+求解时间为：0.22s
+决策变量个数为：76
+

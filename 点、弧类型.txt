@@ -1,0 +1,38 @@
+T_S_S_Node
+与时空网络中不同，代表着此点与前继节点组成的弧的类型
+1——运行弧；
+21-日间连接弧，
+22-换乘连接弧，
+23-间休连接弧，
+24-外段驻班休连接弧；
+31-虚拟出乘弧，
+32-虚拟退乘弧，
+33-虚拟停驻弧
+
+T_S_S_Arc
+不管其他的，只需要关注
+1-运行弧
+31-虚拟出乘
+32-虚拟退乘
+33-虚拟停驻弧
+21-日间连接弧
+
+----
+1.需要用到的T_S_S_Node的属性：
+ID, PrevID, LineID, RoutingID, TrainCode, TimeCode, 
+PointType, OStation, PassLine, 
+Price,
+PrevSuperID, SuperPointID
+资源量，自己定义[DriveTime_accumu, ConnTime_accumu, DayCrewTime_accumu, lunch, dinner
+另外便于查看信息，不同于zzm版本的PointID，直接定义几个成员实体：
+SuperNode, Prev_SuperNode, Prev_TSSNode
+
+1.需要用到的T_S_S_Arc的属性：
+ID, StartPointID, EndPointID, StartTimeCode, EndTimeCode, NumSelected, LineID, TrainCode
+ArcType, EndCumuLunch, EndCumuDinner
+Price, LagPrice, HeurPrice, LagMultiplier
+注意：由于还得添加一个PenaltyMealViolate，所以实际用到的弧长P = Price + PenaltyMealViolate
+为了减少改动（整个程序中，Price的赋值只有一处，其余均是使用它的值），把Price作为P
+
+
+

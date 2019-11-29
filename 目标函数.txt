@@ -1,0 +1,1 @@
+sum of price：实质上等于交路的总长度，即 last_task.endTime - first_task.startTime，并不加出退乘的120分钟

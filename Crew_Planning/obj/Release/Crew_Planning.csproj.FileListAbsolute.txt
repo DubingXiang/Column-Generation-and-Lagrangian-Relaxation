@@ -1,0 +1,248 @@
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+C:\Users\ZZM\Desktop\lag\LR+FDP一天\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+E:\EJOR\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+C:\Users\ZZM\Desktop\程序\LR+FDP一天京津城际\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+D:\老师论文对的程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+D:\老师论文对的程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-9\王老师老师论文-程序4-2\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+H:\BigScale\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-13\LR+FDP改进版\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+D:\老师论文对的程序4-2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\4-16-改进了LR\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-22\4-16-改进了LR-bigscale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+G:\BigScale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+G:\BigScale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+G:\BigScale2\LR+FDP改进版2.0\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\最新版程序\LR+FDP改进版-bigcase43-44\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\4-27-求M1\LR+FDP改进版-可一次求解多个case\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+C:\Users\SY12-F10\Desktop\王老师老师论文-程序4-2\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe.config
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\bin\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\bin\Release\Crew_Planning.exe.config
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\obj\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\bin\Release\Crew_Planning.exe
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\bin\Release\Crew_Planning.pdb
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+D:\老师论文对的程序4-2\12个算例测试每天结果\5-2-改为1440\LR+FDP改进版-可一次求解多个case——1440\Crew_Planning - 副本\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\bin\Release\Crew_Planning.exe.config
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\obj\Release\Crew_Planning.exe
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\obj\Release\Crew_Planning.pdb
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\obj\Release\Crew_Planning.csprojResolveAssemblyReference.cache
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\obj\Release\Crew_Planning.Form1.resources
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\obj\Release\Crew_Planning.Form2.resources
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\obj\Release\Crew_Planning.ParaSet.resources
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\obj\Release\Crew_Planning.Properties.Resources.resources
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\obj\Release\Crew_Planning.ShowGap_Cur.resources
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\obj\Release\Crew_Planning.ShowGap_CurBest.resources
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\obj\Release\Crew_Planning.SolProcess.resources
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\obj\Release\Crew_Planning.csproj.GenerateResource.Cache
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\bin\Release\Crew_Planning.exe
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\bin\Release\Crew_Planning.pdb
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\bin\Release\ILOG.Concert.dll
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\bin\Release\ILOG.CPLEX.dll
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\bin\Release\ILOG.Concert.xml
+D:\代码项目\C#\CG+LR\Crew_Planning - LR+CG_test version\Crew_Planning\bin\Release\ILOG.CPLEX.xml
